@@ -4,7 +4,7 @@
 
 ### App Walk-though
 
-<!-- <img src="file:///Users/MSAMB/Desktop/COdepathIOSWalkthrough.gif" width=200><br> -->
+<!-- <img src="COdepathIOSWalkthrough.gif" width=200><br> -->
 
 ### Required Features
 
