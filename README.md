@@ -3,8 +3,7 @@
 ### IOS Application for Student Introductions
 
 ### App Walk-though
-
-<!-- <img src="COdepathIOSWalkthrough.gif" width=200><br> -->
+<img src='COdepathIOSWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Required Features
 
